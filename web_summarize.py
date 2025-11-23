@@ -1,3 +1,13 @@
+'''
+Author
+
+Selim Ben Haj Braiek
+🎓 Master’s student in Data Science and Artificial Intelligence
+📍 Budapest University of Technology and Economics (BME)
+
+Description: **WebSnark**, the tiny Python project with a big attitude.
+'''
+
 
 import os
 from dotenv import load_dotenv

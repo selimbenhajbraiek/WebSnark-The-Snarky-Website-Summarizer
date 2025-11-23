@@ -23,24 +23,24 @@ Because reading entire websites is so 2010.
 ## 🚀 Quick Start
 
 ### 1. Clone the repo  
-\`\`\`bash
+```bash
 git clone https://github.com/selimbenhajbraiek/WebSnark-The-Snarky-Website-Summarizer.git
 cd websnark
-\`\`\`
+```
 
 ### 2. Install dependencies  
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### 3. Add your \`.env\` file  
 
 Create a `.env` file:
 
-\`\`\`
+```bash
 GOOGLE_API_KEY= your-real-key-here
 GEMINI_API_KEY = the same as in GOOGLE_API_KEY
-\`\`\`
+```
 
 ---
 
